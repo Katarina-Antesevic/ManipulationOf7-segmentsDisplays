@@ -1,0 +1,12 @@
+Dioda1	Dioda2	Dioda3	Dioda4	Dioda5 	Dioda6	SrBroj	Switch
+
+Bijela 	Crvena 	Crvena 	Plava 			725941 	Treći
+Bijela 	Žuta 	Bijela 				140349 	Treći
+Plava 	Plava 	Crna 	Žuta 	Bijela 	Žuta 	138652 	Šesti
+Crna 	Žuta 	Plava 	Žuta 	Plava 	Bijela 	097526 	Šesti
+Žuta 	Žuta 	Žuta 	Žuta 	Bijela 		454798 	Drugi
+Bijela 	Plava 	Crna 	Plava 	Crna 	Plava 	537913 	Treći
+Plava 	Plava 	Plava 				637851 	Treći
+Crvena 	Plava 	Crvena 	Bijela 	Žuta 	Žuta 	963758 	Četvrti
+Plava 	Plava 	Bijela 	Bijela 	Bijela 	Crna 	320767 	Treći
+Bijela 	Crna 	Plava 	Plava 	Crna 	Crvena 	073958 	Četvrti
